@@ -1,4 +1,4 @@
-Hello !
-I'm using Git.
+Bonjour le monde !
+Git a été crée par Linus Torvalds en 2005.
 Au revoir !
 git est un logiciel de gestion de versions décentralisé.
